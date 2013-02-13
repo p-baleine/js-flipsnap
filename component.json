@@ -1,0 +1,13 @@
+{
+  "name": "js-flipsnap",
+  "repo": "p-baleine/js-flipsnap",
+  "version": "0.4.1",
+  "description": "snap scroll for touch device.",
+  "keywords": ["flipsnap", "touch"],
+  "dependencies": {},
+  "development": {},
+  "main": "flipsnap.min.js",
+  "scripts": [
+    "flipsnap.min.js"
+  ]
+}
